@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(71, 73, 76);
+    text-align: center;
+    color: beige;
+    font-family: 'Poppins', sans-serif;
+}
+
+#cuerpo {
+    background-color: rgb(230, 239, 253);
+    color: black;
+    margin-top: 3vh;
+}
+
+span hr {
+    max-width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 5em;
+}
