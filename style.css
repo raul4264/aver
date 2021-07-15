@@ -16,6 +16,20 @@ body {
     margin-top: 3vh;
 }
 
+#cuerpo2 img {
+    margin-top: 2vh;
+    border-bottom: 80vh;
+    margin-bottom: 1vh;
+}
+
+#cuerpo2 {
+    padding-bottom: 1vh;
+}
+
+#cuerpo2 {
+    background-color: rgb(69, 126, 163);
+}
+
 img {
     border-radius: 10px;
 }
